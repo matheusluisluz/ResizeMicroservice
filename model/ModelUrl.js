@@ -9,4 +9,4 @@ const Task = {
     })
 }
 
-module.exports = (db) => db.model("URL", Task.url);
+module.exports = (db) => db.model("URLS", Task.url);

@@ -31,7 +31,7 @@ exports.UploadImages = async (results, app, request, response) => {
     let url = [];
     let vetor = [];
 
-    for (let i = 0; i < 2 /*array.length*/; i++) {
+    for (let i = 0; i < array.length; i++) {
         let image = array[i];
         imgur.setAPIUrl("https://api.imgur.com/3/");
 
