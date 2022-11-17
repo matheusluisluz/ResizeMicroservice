@@ -16,7 +16,7 @@
     "jimp": "^0.2.28",
     "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
-    "restify-clients": "^1.5.2",
+    "restify-clients": "^1.6.0",
     "winston": "^2.4.0"
   },
   "devDependencies": {
